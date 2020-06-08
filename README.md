@@ -9,7 +9,7 @@
  * before flashing it! YOU are choosing to make these modifications, and if
  * you point the finger at me for messing up your device, I will laugh at you.
  #### Sources that i use (apps, scripts, patches)
- * https://gitlab.com/PWN-Hunter/Pocohunter_rom/-/blob/master/README.md
+ * https://gitlab.com/Martinvlba/Pocohunter_rom/-/blob/master/README.md
  
  #### Other PHunter sources
  * https://github.com/PWN-Hunter/PHunter-Kernel
