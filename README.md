@@ -12,9 +12,7 @@
  * https://gitlab.com/Martinvlba/Pocohunter_rom/-/blob/master/README.md
  
  #### Other PHunter sources
- * https://github.com/PWN-Hunter/PHunter-Kernel
- * https://github.com/PWN-Hunter/PHunter_out
- * https://github.com/PWN-Hunter/android
+ * https://github.com/JakeFrostyYT/Nethunter-Chroot # Better NHChroot that has modifications for better usage.
  
  #### Read ME!!
  * Note: PocoHunter ROM is intended to be used for legal security purposes only, and you should only use it to protect networks/hosts you own or have permission to test. Any other use is not the responsibility of the developer(s). Be sure that you understand and are complying with the cSploit licenses and laws in your area. In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.
