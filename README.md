@@ -11,7 +11,7 @@
  #### Sources that i use (apps, scripts, patches)
  * https://gitlab.com/Martinvlba/Pocohunter_rom/-/blob/master/README.md
  
- #### Other PHunter sources
+ #### Other sources
  * https://github.com/JakeFrostyYT/Nethunter-Chroot # Better NHChroot that has modifications for better usage.
  
  #### Read ME!!
