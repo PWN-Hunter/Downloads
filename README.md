@@ -8,6 +8,12 @@
  * do some research if you have any concerns about features included in this ROM
  * before flashing it! YOU are choosing to make these modifications, and if
  * you point the finger at me for messing up your device, I will laugh at you.
+ #### Patreons who keep this project going on. All @Mention will work on telegram ( t.me ) only.
+ * Henrique          | @Henrique
+ * NoNoNo            | @No_No_No
+ * Pentesters Home   | @HuntMix
+ * Vlad              | @Master
+ 
  #### Sources that i use (apps, scripts, patches)
  * https://gitlab.com/Martinvlba/Pocohunter_rom/-/blob/master/README.md
  
