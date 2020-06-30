@@ -1,5 +1,5 @@
-# Downloads
-## PHunter
+# Downloads / Wiki (Rom building)
+## PWN-Hunter
 
  * Your warranty is now void.
  * 
@@ -13,9 +13,6 @@
  * NoNoNo            | @No_No_No
  * Pentesters Home   | @HuntMix
  * Vlad              | @Master
- 
- #### Sources that i use (apps, scripts, patches)
- * https://gitlab.com/Martinvlba/Pocohunter_rom/-/blob/master/README.md
  
  #### Other sources
  * https://github.com/JakeFrostyYT/Nethunter-Chroot # Better NHChroot that has modifications for better usage.
