@@ -1,4 +1,4 @@
-# Downloads / Wiki (Rom building)
+# Downloads / Wiki (WIP)
 ## Telegram group chat
 * Here is a telegram group where you can find me and other users. 
 * https://t.me/pwn_hunter_rom
