@@ -1,4 +1,7 @@
 # Downloads / Wiki (Rom building)
+## Telegram group chat
+* Here is a telegram group where you can find me and other users. 
+* https://t.me/pwn_hunter_rom
 ## PWN-Hunter
 
  * Your warranty is now void.
@@ -8,7 +11,7 @@
  * do some research if you have any concerns about features included in this ROM
  * before flashing it! YOU are choosing to make these modifications, and if
  * you point the finger at me for messing up your device, I will laugh at you.
- #### Patreons who keep this project going on. All @Mention will work on telegram ( t.me ) only.
+ #### Patreons who keep this project going on. All @Mention will work on telegram ( t.me/ ) only.
  * Henrique          | @Henrique
  * NoNoNo            | @No_No_No
  * Pentesters Home   | @HuntMix
