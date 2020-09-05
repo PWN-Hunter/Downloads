@@ -1,7 +1,7 @@
-# Downloads / Wiki (WIP)
+# Downloads / Wiki
 ## Telegram group chat
 * Here is a telegram group where you can find me and other users. 
-* https://t.me/pwn_hunter_rom
+* https://t.me/NetHunter_Chat
 ## PWN-Hunter
 
  * Your warranty is now void.
